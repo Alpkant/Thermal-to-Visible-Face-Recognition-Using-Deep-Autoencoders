@@ -1,8 +1,8 @@
 # Thermal to Visible Face Recognition Using Deep Autoencoders
-This repository contains the implementation and the manual landmark annotations that have been used in our BIOSIG19 paper "Thermal to Visible Face Recognition Using Deep Autoencoders"
-More details will be added and updated after the publication of the paper. For now this repository contains only the manual landmark annotations of the [Carl Dataset][1] and [EURECOM Visible and Thermal paired face database][2] which is marked by us. 
+This repository contains the implementation and the manual landmark annotations that have been used in our BIOSIG19 paper "Thermal to Visible Face Recognition Using Deep Autoencoders". Our research utilizes a deep autoencoder to perform thermal to visible face recognition by reconstructing a visible corresponding of a thermal image as close as possible.
+More details will be added and updated after the publication of the paper. For now this repository contains only the manual landmark annotations of the [Carl Dataset][1] and [EURECOM Visible and Thermal paired face database][2] which are marked by us. 
 ## Manually Labeled Facial Landmarks
-Today there are lots of automatic landmark detection systems to detect facial landmarks, but there is no stable system that provides automatic landmark detection on the thermal face images. We investigated effect of the facial alignment on recognition with our proposed network. In order to make accurate alignment we manually marked six landmark of the faces. In this repository we share our manual landmark data with the community. 
+Today there are lots of automatic landmark detection systems to detect facial landmarks, but there is no stable system that provides automatic landmark detection for the thermal face images. We investigated effect of the facial alignment on recognition with our proposed network. In order to make accurate alignment we manually marked six landmark of the faces. In this repository we share our manual landmark data with the community. 
 ### Facial Landmarks 
 ![Example Face](https://github.com/Alpkant/Thermal-to-Visible-Face-Recognition-Using-Deep-Autoencoders/blob/master/images/simpleface.png "Six landmarks")
 
