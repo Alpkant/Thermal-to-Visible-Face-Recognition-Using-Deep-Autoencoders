@@ -1,6 +1,10 @@
 # Thermal to Visible Face Recognition Using Deep Autoencoders
-This repository contains the implementation and the manual landmark annotations that have been used in our BIOSIG19 paper "Thermal to Visible Face Recognition Using Deep Autoencoders". Our research utilizes a deep autoencoder to perform thermal to visible face recognition by reconstructing a visible corresponding of a thermal image as close as possible.
-More details will be added and updated after the publication of the paper. For now this repository contains only the manual landmark annotations of the [Carl Dataset][1] and [EURECOM Visible and Thermal paired face database][2] which are marked by us. 
+This repository contains the implementation and the manual landmark annotations that have been used in our BIOSIG19 paper "Thermal to Visible Face Recognition Using Deep Autoencoders". Our research utilizes a deep autoencoder to perform thermal to visible face recognition by constructing a visible corresponding of a thermal image as close as possible.
+More details will be added and updated after the publication of the paper. For now this repository contains only the manual landmark annotations of the [Carl Dataset][1] and [EURECOM Visible and Thermal paired face database][2] which are marked by us.
+## Introduction
+In this research, we present a deep autoencoder based system to learn the mapping between visible and thermal face images. Also, we assess the impact of alignment in thermal to visible face recognition. U-Net based autoencoder network take visible face image as input and create the face in thermal modality. 
+
+Authors are Alperen Kantarcı and Assoc. Dr. Hazım Kemal Ekenel. This research is also Bachelor thesis of the Alperen Kantarcı and accepted by the BIOSIG19 conference. 
 ## Manually Labeled Facial Landmarks
 Today there are lots of automatic landmark detection systems to detect facial landmarks, but there is no stable system that provides automatic landmark detection for the thermal face images. We investigated effect of the facial alignment on recognition with our proposed network. In order to make accurate alignment we manually marked six landmark of the faces. In this repository we share our manual landmark data with the community. 
 ### Facial Landmarks 
@@ -33,6 +37,9 @@ You can see an example of the facial landmarks for the "imagename.bmp". Box prov
 
 For each subject we have created a XML file that contains both thermal and visible images of the subject. 
 
+
+## Citation
+BibTeX format will be available here after the publication of the BIOSIG19 conference
 
 [1]: http://splab.cz/en/download/databaze/carl-database
 [2]: http://vis-th.eurecom.fr/
