@@ -1,0 +1,268 @@
+<dataset>
+<name>Eurecom Thermal Visible Paired Face Dataset Face Annotations</name>
+
+<images>	<image file="007/TH/TH_007_1_01_NN.bmp">
+		<box height="101.00001743861618" left="41.14286150251121" top="8.714285714285724" width="79.71428135463178">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="58" y="58" />
+			<part name="righteye_inner" x="71" y="56" />
+			<part name="lefteye_inner" x="87" y="56" />
+			<part name="lefteye_outer" x="99" y="56" />
+			<part name="mouthcorner_right" x="67" y="84" />
+			<part name="mouthcorner_left" x="90" y="84" />
+		</box>
+	</image>
+	<image file="007/TH/TH_007_1_04_ES.bmp">
+		<box height="98.14287458147332" left="41.71428571428576" top="13.71428571428573" width="80.57142857142865">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="57" y="61" />
+			<part name="righteye_inner" x="70" y="61" />
+			<part name="lefteye_inner" x="85" y="60" />
+			<part name="lefteye_outer" x="98" y="60" />
+			<part name="mouthcorner_right" x="66" y="89" />
+			<part name="mouthcorner_left" x="87" y="88" />
+		</box>
+	</image>
+	<image file="007/TH/TH_007_1_05_ESp.bmp">
+		<box height="100.85714285714297" left="38.857142857142904" top="5.714285714285721" width="88.14285714285724">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="60" y="56" />
+			<part name="righteye_inner" x="73" y="58" />
+			<part name="lefteye_inner" x="90" y="57" />
+			<part name="lefteye_outer" x="102" y="55" />
+			<part name="mouthcorner_right" x="73" y="85" />
+			<part name="mouthcorner_left" x="92" y="85" />
+		</box>
+	</image>
+	<image file="007/TH/TH_007_1_18_LLR.bmp">
+		<box height="102.28572300502243" left="37.42857142857147" top="5.285714285714292" width="88.71428571428581">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="61" y="57" />
+			<part name="righteye_inner" x="74" y="57" />
+			<part name="lefteye_inner" x="88" y="56" />
+			<part name="lefteye_outer" x="102" y="55" />
+			<part name="mouthcorner_right" x="71" y="85" />
+			<part name="mouthcorner_left" x="93" y="83" />
+		</box>
+	</image>
+	<image file="007/TH/TH_007_1_06_AEC.bmp">
+		<box height="112.09302325581413" left="37.67441860465122" top="3.8372093023255873" width="92.67441860465131">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="58" y="57" />
+			<part name="righteye_inner" x="72" y="56" />
+			<part name="lefteye_inner" x="91" y="55" />
+			<part name="lefteye_outer" x="105" y="56" />
+			<part name="mouthcorner_right" x="70" y="87" />
+			<part name="mouthcorner_left" x="93" y="86" />
+		</box>
+	</image>
+	<image file="007/TH/TH_007_1_02_EH.bmp">
+		<box height="101.7143031529019" left="39.71429007393978" top="9.42857142857144" width="82.99999564034607">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="60" y="56" />
+			<part name="righteye_inner" x="73" y="56" />
+			<part name="lefteye_inner" x="89" y="55" />
+			<part name="lefteye_outer" x="101" y="56" />
+			<part name="mouthcorner_right" x="68" y="81" />
+			<part name="mouthcorner_left" x="92" y="80" />
+		</box>
+	</image>
+	<image file="007/TH/TH_007_1_17_LLU.bmp">
+		<box height="98.857151576451" left="43.857142857142904" top="6.857142857142865" width="83.14285714285724">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="60" y="56" />
+			<part name="righteye_inner" x="73" y="56" />
+			<part name="lefteye_inner" x="89" y="56" />
+			<part name="lefteye_outer" x="102" y="56" />
+			<part name="mouthcorner_right" x="72" y="83" />
+			<part name="mouthcorner_left" x="92" y="82" />
+		</box>
+	</image>
+	<image file="007/TH/TH_007_1_14_OH.bmp">
+		<box height="100.57141985212064" left="41.57142857142862" top="11.000000000000012" width="80.85715157645099">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="61" y="62" />
+			<part name="righteye_inner" x="75" y="63" />
+			<part name="lefteye_inner" x="90" y="61" />
+			<part name="lefteye_outer" x="104" y="60" />
+			<part name="mouthcorner_right" x="73" y="91" />
+			<part name="mouthcorner_left" x="94" y="91" />
+		</box>
+	</image>
+	<image file="007/TH/TH_007_1_19_LLL.bmp">
+		<box height="101.42857142857154" left="40.57142857142862" top="10.142857142857155" width="80.00000000000009">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="59" y="60" />
+			<part name="righteye_inner" x="71" y="60" />
+			<part name="lefteye_inner" x="88" y="59" />
+			<part name="lefteye_outer" x="101" y="58" />
+			<part name="mouthcorner_right" x="70" y="89" />
+			<part name="mouthcorner_left" x="90" y="88" />
+		</box>
+	</image>
+	<image file="007/TH/TH_007_1_03_EA.bmp">
+		<box height="96.42857142857153" left="39.14285714285719" top="10.142857142857155" width="82.00000000000009">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="57" y="56" />
+			<part name="righteye_inner" x="71" y="57" />
+			<part name="lefteye_inner" x="86" y="56" />
+			<part name="lefteye_outer" x="99" y="57" />
+			<part name="mouthcorner_right" x="69" y="84" />
+			<part name="mouthcorner_left" x="89" y="84" />
+		</box>
+	</image>
+	<image file="007/TH/TH_007_1_21_LR.bmp">
+		<box height="104.2857142857144" left="41.71428571428576" top="10.42857142857144" width="82.42857142857152">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="59" y="60" />
+			<part name="righteye_inner" x="74" y="60" />
+			<part name="lefteye_inner" x="88" y="60" />
+			<part name="lefteye_outer" x="103" y="58" />
+			<part name="mouthcorner_right" x="70" y="89" />
+			<part name="mouthcorner_left" x="93" y="88" />
+		</box>
+	</image>
+	<image file="007/TH/TH_007_1_07_AOM.bmp">
+		<box height="105.71429443359386" left="38.71428571428576" top="5.285714285714292" width="93.71428571428582">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="61" y="50" />
+			<part name="righteye_inner" x="76" y="50" />
+			<part name="lefteye_inner" x="89" y="48" />
+			<part name="lefteye_outer" x="104" y="48" />
+			<part name="mouthcorner_right" x="70" y="80" />
+			<part name="mouthcorner_left" x="95" y="79" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_04_ES.bmp">
+		<box height="941" left="497" top="61" width="827.0001220703125">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="716" y="558" />
+			<part name="righteye_inner" x="813" y="555" />
+			<part name="lefteye_inner" x="957" y="552" />
+			<part name="lefteye_outer" x="1063" y="552" />
+			<part name="mouthcorner_right" x="807" y="815" />
+			<part name="mouthcorner_left" x="990" y="811" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_02_EH.bmp">
+		<box height="936" left="564" top="92" width="830">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="742" y="521" />
+			<part name="righteye_inner" x="837" y="517" />
+			<part name="lefteye_inner" x="992" y="515" />
+			<part name="lefteye_outer" x="1090" y="505" />
+			<part name="mouthcorner_right" x="803" y="742" />
+			<part name="mouthcorner_left" x="1040" y="738" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_17_LLU.bmp">
+		<box height="876" left="537" top="82" width="824.0001220703125">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="746" y="511" />
+			<part name="righteye_inner" x="842" y="507" />
+			<part name="lefteye_inner" x="992" y="502" />
+			<part name="lefteye_outer" x="1096" y="487" />
+			<part name="mouthcorner_right" x="833" y="771" />
+			<part name="mouthcorner_left" x="1027" y="768" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_03_EA.bmp">
+		<box height="914" left="537" top="67" width="796">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="730" y="527" />
+			<part name="righteye_inner" x="832" y="531" />
+			<part name="lefteye_inner" x="977" y="528" />
+			<part name="lefteye_outer" x="1080" y="515" />
+			<part name="mouthcorner_right" x="810" y="781" />
+			<part name="mouthcorner_left" x="997" y="785" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_01_NN.bmp">
+		<box height="927" left="507" top="65" width="844.0001220703125">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="716" y="525" />
+			<part name="righteye_inner" x="822" y="518" />
+			<part name="lefteye_inner" x="967" y="518" />
+			<part name="lefteye_outer" x="1077" y="511" />
+			<part name="mouthcorner_right" x="803" y="777" />
+			<part name="mouthcorner_left" x="1002" y="767" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_06_AEC.bmp">
+		<box height="930" left="507" top="52" width="844.0001220703125">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="706" y="517" />
+			<part name="righteye_inner" x="826" y="505" />
+			<part name="lefteye_inner" x="990" y="497" />
+			<part name="lefteye_outer" x="1123" y="497" />
+			<part name="mouthcorner_right" x="807" y="795" />
+			<part name="mouthcorner_left" x="1030" y="782" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_21_LR.bmp">
+		<box height="950" left="511" top="65" width="813">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="723" y="551" />
+			<part name="righteye_inner" x="840" y="548" />
+			<part name="lefteye_inner" x="980" y="542" />
+			<part name="lefteye_outer" x="1097" y="532" />
+			<part name="mouthcorner_right" x="823" y="821" />
+			<part name="mouthcorner_left" x="1017" y="818" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_07_AOM.bmp">
+		<box height="965.9999980926514" left="547" top="22.000001907348633" width="856">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="752" y="455" />
+			<part name="righteye_inner" x="853" y="447" />
+			<part name="lefteye_inner" x="1006" y="445" />
+			<part name="lefteye_outer" x="1117" y="442" />
+			<part name="mouthcorner_right" x="832" y="741" />
+			<part name="mouthcorner_left" x="1043" y="745" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_18_LLR.bmp">
+		<box height="943" left="501" top="45" width="875.9998779296875">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="750" y="525" />
+			<part name="righteye_inner" x="857" y="517" />
+			<part name="lefteye_inner" x="997" y="512" />
+			<part name="lefteye_outer" x="1103" y="507" />
+			<part name="mouthcorner_right" x="846" y="781" />
+			<part name="mouthcorner_left" x="1030" y="775" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_05_ESp.bmp">
+		<box height="890" left="568" top="67" width="786">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="756" y="512" />
+			<part name="righteye_inner" x="857" y="518" />
+			<part name="lefteye_inner" x="997" y="517" />
+			<part name="lefteye_outer" x="1102" y="508" />
+			<part name="mouthcorner_right" x="850" y="792" />
+			<part name="mouthcorner_left" x="1026" y="785" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_19_LLL.bmp">
+		<box height="949" left="463" top="62" width="925">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="723" y="542" />
+			<part name="righteye_inner" x="833" y="545" />
+			<part name="lefteye_inner" x="980" y="537" />
+			<part name="lefteye_outer" x="1097" y="532" />
+			<part name="mouthcorner_right" x="822" y="821" />
+			<part name="mouthcorner_left" x="1006" y="808" />
+		</box>
+	</image>
+	<image file="007/VIS/VIS_007_1_14_OH.bmp">
+		<box height="914" left="548" top="87" width="813">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="752" y="562" />
+			<part name="righteye_inner" x="856" y="568" />
+			<part name="lefteye_inner" x="1006" y="562" />
+			<part name="lefteye_outer" x="1117" y="548" />
+			<part name="mouthcorner_right" x="853" y="837" />
+			<part name="mouthcorner_left" x="1027" y="825" />
+		</box>
+	</image>
+</images></dataset>
