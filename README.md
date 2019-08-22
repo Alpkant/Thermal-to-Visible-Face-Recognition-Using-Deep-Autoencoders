@@ -36,7 +36,9 @@ You can see an example of the facial landmarks for the "imagename.bmp". Box prov
 ```
 
 For each subject we have created a XML file that contains both thermal and visible images of the subject. 
-
+## Architecture
+Architecture of the network is inspired by the [U-Net][4] which is used on medical segmentation where the training data is limited. Our problem also has limited number of training data. Because of this, we employed similar architecture to the U-Net. You can see our architecture below.
+![Architecture](https://github.com/Alpkant/Thermal-to-Visible-Face-Recognition-Using-Deep-Autoencoders/blob/master/images/architecture.png)
 
 ## Citation
 BibTeX format will be available here after the publication of the BIOSIG19 conference
@@ -44,3 +46,4 @@ BibTeX format will be available here after the publication of the BIOSIG19 confe
 [1]: http://splab.cz/en/download/databaze/carl-database
 [2]: http://vis-th.eurecom.fr/
 [3]: http://fg-biosig.gi.de/biosig-2019
+[4]: https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
