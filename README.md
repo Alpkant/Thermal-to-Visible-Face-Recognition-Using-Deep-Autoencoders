@@ -41,7 +41,7 @@ Architecture of the network is inspired by the [U-Net][4] which is used on medic
 ![Architecture](https://github.com/Alpkant/Thermal-to-Visible-Face-Recognition-Using-Deep-Autoencoders/blob/master/images/architecture.png)
 
 ## Citation
-BibTeX format will be available here after the publication of the BIOSIG19 conference
+BibTeX format will be available here after the publication of proceedings of the BIOSIG19 conference.
 
 [1]: http://splab.cz/en/download/databaze/carl-database
 [2]: http://vis-th.eurecom.fr/
