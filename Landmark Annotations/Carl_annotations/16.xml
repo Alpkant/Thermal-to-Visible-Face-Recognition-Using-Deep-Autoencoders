@@ -101,12 +101,48 @@
 		</box>
 	</image>
 	<image file="16/session_4/classic/16S4CIR2.bmp">
+		<box height="349" top="103" left="160" width="279">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="248" y="260"/>
+			<part name="righteye_inner" x="280" y="260"/>
+			<part name="lefteye_inner" x="330" y="262"/>
+			<part name="lefteye_outer" x="360" y="264"/>
+			<part name="mouthcorner_right" x="270" y="341"/>
+			<part name="mouthcorner_left" x="336" y="346"/>
+		</box>
 	</image>
 	<image file="16/session_4/classic/16S4CIR5.bmp">
+		<box height="337" top="114" left="181" width="270">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="262" y="262"/>
+			<part name="righteye_inner" x="292" y="262"/>
+			<part name="lefteye_inner" x="342" y="262"/>
+			<part name="lefteye_outer" x="372" y="264"/>
+			<part name="mouthcorner_right" x="285" y="342"/>
+			<part name="mouthcorner_left" x="343" y="344"/>
+		</box>
 	</image>
 	<image file="16/session_2/thermal_bmp/16S2BNA3.bmp">
+		<box height="146" top="45" left="92" width="120">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="126" y="113"/>
+			<part name="righteye_inner" x="140" y="112"/>
+			<part name="lefteye_inner" x="166" y="109"/>
+			<part name="lefteye_outer" x="178" y="111"/>
+			<part name="mouthcorner_right" x="141" y="154"/>
+			<part name="mouthcorner_left" x="170" y="153"/>
+		</box>
 	</image>
 	<image file="16/session_2/classic/16S2CIR4.bmp">
+		<box height="306" top="117" left="228" width="232">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="293" y="261"/>
+			<part name="righteye_inner" x="323" y="262"/>
+			<part name="lefteye_inner" x="367" y="263"/>
+			<part name="lefteye_outer" x="394" y="262"/>
+			<part name="mouthcorner_right" x="308" y="336"/>
+			<part name="mouthcorner_left" x="368" y="337"/>
+		</box>
 	</image>
 	<image file="16/session_2/classic/16S2CAR1.bmp">
 		<box height="327" left="181" top="75" width="257">
@@ -894,9 +930,6 @@
 		</box>
 	</image>
 	<image file="16/session_1/thermal_bmp/16S1BNA3.bmp">
-		<box height="22.99999237060547" left="59.999996185302734" top="3.000001907348633" width="29.000003814697266">
-			<label>unlabelled</label>
-		</box>
 		<box height="168.99999809265137" left="98" top="15.000001907348633" width="163">
 			<label>unlabelled</label>
 			<part name="righteye_outer" x="130" y="84" />
