@@ -298,17 +298,6 @@
 			<part name="mouthcorner_left" x="156" y="163" />
 		</box>
 	</image>
-	<image file="04/session_4/classic/04S4BNA3 - Copy.bmp">
-		<box height="172.24998474121082" left="101.50000762939446" top="21.749999999999986" width="141.74999237060538">
-			<label>unlabelled</label>
-			<part name="righteye_outer" x="137" y="96" />
-			<part name="righteye_inner" x="154" y="96" />
-			<part name="lefteye_inner" x="177" y="96" />
-			<part name="lefteye_outer" x="191" y="96" />
-			<part name="mouthcorner_right" x="153" y="138" />
-			<part name="mouthcorner_left" x="178" y="140" />
-		</box>
-	</image>
 	<image file="04/session_4/thermal_bmp/04S4BAR1.bmp">
 		<box height="176.50001525878895" left="74.50000762939449" top="16.74999999999999" width="158.49999237060536">
 			<label>unlabelled</label>
