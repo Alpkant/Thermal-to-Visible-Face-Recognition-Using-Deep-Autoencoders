@@ -244,6 +244,15 @@
 		</box>
 	</image>
 	<image file="16/session_2/thermal_bmp/16S2BAR1.bmp">
+		<box top="27" left="95" width="118" height="154">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="130" y="100"/>
+			<part name="righteye_inner" x="148" y="99"/>
+			<part name="lefteye_inner" x="170" y="99"/>
+			<part name="lefteye_outer" x="185" y="99"/>
+			<part name="mouthcorner_right" x="141" y="137"/>
+			<part name="mouthcorner_left" x="173" y="137"/>
+		</box>
 	</image>
 	<image file="16/session_2/classic/16S2CAR3.bmp">
 		<box height="335" left="175" top="137" width="360">
@@ -257,6 +266,15 @@
 		</box>
 	</image>
 	<image file="16/session_2/classic/16S2CAR4.bmp">
+		<box top="115" left="222" width="233" height="299">
+			<label>unlabelled</label>
+			<part name="righteye_outer" x="290" y="244"/>
+			<part name="righteye_inner" x="317" y="244"/>
+			<part name="lefteye_inner" x="362" y="242"/>
+			<part name="lefteye_outer" x="389" y="242"/>
+			<part name="mouthcorner_right" x="312" y="316"/>
+			<part name="mouthcorner_left" x="369" y="315"/>
+		</box>
 	</image>
 	<image file="16/session_2/classic/16S2CIR2.bmp">
 		<box height="331.0000305175781" left="95" top="113" width="477">
