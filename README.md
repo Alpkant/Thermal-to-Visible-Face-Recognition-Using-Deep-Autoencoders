@@ -41,8 +41,15 @@ Architecture of the network is inspired by the [U-Net][4] which is used on medic
 ![Architecture](https://github.com/Alpkant/Thermal-to-Visible-Face-Recognition-Using-Deep-Autoencoders/blob/master/images/architecture.png)
 
 ## Citation
-You can access to the publication via [this link][5].
+If you use our annotations for the datasets, please cite our publication. You can access to the publication via [this link][5]. 
 
+MLA:
+```
+Kantarcı, Alperen, and Hazım Kemal Ekenel. "Thermal to Visible Face Recognition Using Deep Autoencoders." 2019 International Conference of the Biometrics Special Interest Group (BIOSIG). IEEE, 2019.
+```
+
+Bibtex:
+```
 @INPROCEEDINGS{8897222,  
 author={A. {Kantarcı} and H. K. {Ekenel}},  
 booktitle={2019 International Conference of the Biometrics Special Interest Group (BIOSIG)},  
@@ -55,7 +62,7 @@ keywords={face recognition;image coding;image matching;learning (artificial inte
 doi={},  
 ISSN={1617-5468},  
 }
-
+```
 
 [1]: http://splab.cz/en/download/databaze/carl-database
 [2]: http://vis-th.eurecom.fr/
